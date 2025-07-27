@@ -110,3 +110,4 @@ Result is saved to round1b/output/result.json.
 - Persona-driven ranking of relevant sections.
 - Lightweight and offline (CPU-only).
 - Fully containerized for consistent execution.
+
