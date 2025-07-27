@@ -1,0 +1,710 @@
+{
+  "metadata": {
+    "documents": [
+      "Jake_s_Resume.pdf",
+      "Java FullStack Developer Specialization.pdf",
+      "sample.pdf",
+      "sample2.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a literature review focusing on methodologies, datasets, and performance benchmarks",
+    "timestamp": "2025-07-27T16:59:09.579262"
+  },
+  "extracted_sections": [
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "section_title": "Abhishek Kumar Dwivedi",
+      "importance_rank": 1
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "section_title": "Education",
+      "importance_rank": 2
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "section_title": "Chandigarh University",
+      "importance_rank": 3
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "section_title": "Jawahar Navodaya Vidyalaya",
+      "importance_rank": 4
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "section_title": "Jawahar Navodaya Vidyalaya",
+      "importance_rank": 5
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "section_title": "Projects",
+      "importance_rank": 6
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "section_title": "Skills",
+      "importance_rank": 7
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "section_title": "Achievements and Participation",
+      "importance_rank": 8
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "section_title": "Fundamentals of Java",
+      "importance_rank": 1
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "section_title": "Programming",
+      "importance_rank": 2
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "section_title": "Frontend for Java Full Stack",
+      "importance_rank": 3
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "section_title": "Development",
+      "importance_rank": 4
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "section_title": "Sumit Kumar",
+      "importance_rank": 5
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "section_title": "Java FullStack Developer",
+      "importance_rank": 6
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 7,
+      "section_title": "Sample Test Cases",
+      "importance_rank": 1
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Max",
+      "importance_rank": 2
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Points",
+      "importance_rank": 3
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 2,
+      "section_title": "The Journey Ahead",
+      "importance_rank": 4
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 2,
+      "section_title": "Why This Matters",
+      "importance_rank": 5
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 3,
+      "section_title": "Your Mission",
+      "importance_rank": 6
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 3,
+      "section_title": "Why This Matters",
+      "importance_rank": 7
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 3,
+      "section_title": "What You Need to Build",
+      "importance_rank": 8
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 3,
+      "section_title": "You Will Be Provided",
+      "importance_rank": 9
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "section_title": "Docker Requirements",
+      "importance_rank": 10
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "section_title": "Expected Execution",
+      "importance_rank": 11
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "section_title": "Constraints",
+      "importance_rank": 12
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "section_title": "Constraint",
+      "importance_rank": 13
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "section_title": "Requirement",
+      "importance_rank": 14
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "section_title": "Execution",
+      "importance_rank": 15
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "section_title": "PDF",
+      "importance_rank": 16
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Network",
+      "importance_rank": 17
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "No internet access",
+      "importance_rank": 18
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Runtime",
+      "importance_rank": 19
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Scoring Criteria",
+      "importance_rank": 20
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Criteria",
+      "importance_rank": 21
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Total",
+      "importance_rank": 22
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Submission Checklist",
+      "importance_rank": 23
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "section_title": "Pro Tips",
+      "importance_rank": 24
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 6,
+      "section_title": "What Not to Do",
+      "importance_rank": 25
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 7,
+      "section_title": "Input Specification",
+      "importance_rank": 26
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 8,
+      "section_title": "Required Output",
+      "importance_rank": 27
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "Deliverables",
+      "importance_rank": 28
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "Scoring Criteria",
+      "importance_rank": 29
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "Criteria",
+      "importance_rank": 30
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "Max",
+      "importance_rank": 31
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "Points",
+      "importance_rank": 32
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "Description",
+      "importance_rank": 33
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "Section Relevance",
+      "importance_rank": 34
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "How well selected sections match",
+      "importance_rank": 35
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "section_title": "Quality of granular subsection",
+      "importance_rank": 36
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "ISHU",
+      "importance_rank": 1
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "Bishanpura Jind Haryana",
+      "importance_rank": 2
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "OBJECTIVE",
+      "importance_rank": 3
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "Communication Skills",
+      "importance_rank": 4
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "Problem Solving",
+      "importance_rank": 5
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "Active Listener",
+      "importance_rank": 6
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "Adaptability",
+      "importance_rank": 7
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "Time management",
+      "importance_rank": 8
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "Technical pro",
+      "importance_rank": 9
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "SKILLS",
+      "importance_rank": 10
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "Fresher",
+      "importance_rank": 11
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "EXPERIENCE",
+      "importance_rank": 12
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "section_title": "EDUCATION",
+      "importance_rank": 13
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "refined_text": "+91-7489002965 | abhishek750524@gmail.com | LinkedIn | GitHub | Portfolio | Leetcode | Codeforces | GfG | Codechef Education Chandigarh University Mohali, Punjab Bachelor of Engineering in Computer Science | CGPA - 8.7"
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "refined_text": "Chandigarh University Mohali, Punjab Bachelor of Engineering in Computer Science | CGPA - 8.7 Sept 2022 \u2013 Jun 2026 Jawahar Navodaya Vidyalaya"
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "refined_text": "Mohali, Punjab Bachelor of Engineering in Computer Science | CGPA - 8.7 Sept 2022 \u2013 Jun 2026 Jawahar Navodaya Vidyalaya Surajpur, Chhattisgarh"
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "refined_text": "Surajpur, Chhattisgarh AISSCE, Central Board of Secondary Education | Percentage - 95% Apr 2019 \u2013 Jun 2020 Jawahar Navodaya Vidyalaya Surajpur, Chhattisgarh"
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "refined_text": "Surajpur, Chhattisgarh AISSCE, Central Board of Secondary Education | Percentage - 95% Apr 2019 \u2013 Jun 2020 Jawahar Navodaya Vidyalaya Surajpur, Chhattisgarh"
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "refined_text": "Doctor Appointment Booking Website | MongoDB, ExpressJS, ReactJS, NodeJS Mar 2025 \u2022 Developed and deployed a full-stack MERN Doctor Appointment Booking system, integrating React.js, Node.js, Express.js, and MongoDB, ensuring scalable, secure, and efficient appointment scheduling. \u2022 Implemented JWT-based authentication and authorization to enhance data security, ensuring secure patient-"
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "refined_text": "Languages: C++, JAVA, Python, JavaScript, HTML, CSS, SQL Frameworks/Databases: ReactJS, ExpressJS, NodeJS, Spring Boot, Tailwind CSS, Bootstrap, MySQL, MongoDB Developer Tools: Git, GitHub, Maven, VS Code Coursework: Data Structures and Algorithms, Database Management System, Object-Oriented Programming, Operating System, Computer Networks, Cloud Computing, Internet of Things, Parallel and Distributed Computing"
+    },
+    {
+      "document": "Jake_s_Resume.pdf",
+      "page_number": 1,
+      "refined_text": "\u2022 Participant, Code Rush Competition (2025) \u2013 Showcased active engagement in coding challenges. \u2022 Scored 91% in NPTEL IoT Exam (2024-25) \u2013 Coursework on IoT, sensor networks, and embedded systems. \u2022 Scored 83% NPTEL Cloud Computing Exam (2024-25) \u2013 Coursework on cloud architecture, virtualization, and distributed computing. \u2022 Solved 500+ DSA problems \u2013 Strong algorithmic thinking, problem-solving, and coding efficiency."
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "refined_text": "Programming Frontend for Java Full Stack Development Data Structures & Backend with Java"
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "refined_text": "Frontend for Java Full Stack Development Data Structures & Backend with Java Abhay Gupta, Co-"
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "refined_text": "Development Data Structures & Backend with Java Abhay Gupta, Co- Founder, Board In\ufb01nity"
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "refined_text": "Data Structures & Backend with Java Abhay Gupta, Co- Founder, Board In\ufb01nity Jun 19, 2025"
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "refined_text": "has successfully completed the online, non-credit Specialization Java FullStack Developer In this specialization, learners are taught to build web applications using Java & Angular technologies. They have learnt the fundamentals of Java language, how to develop web applications using HTML, CSS,"
+    },
+    {
+      "document": "Java FullStack Developer Specialization.pdf",
+      "page_number": 1,
+      "refined_text": "In this specialization, learners are taught to build web applications using Java & Angular technologies. They have learnt the fundamentals of Java language, how to develop web applications using HTML, CSS, Angular, and how to setup backend using Spring & Springboot. They are well-equipped with the knowledge and skills needed to develop"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 7,
+      "refined_text": "Test Case 1: Academic Research   \u2022 Documents: 4 research papers on \"Graph Neural Networks for  Drug Discovery\"   \u2022 Persona: PhD Researcher in Computational Biology   \u2022 Job: \"Prepare a comprehensive literature review focusing on"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "Points   Heading Detection Accuracy (Precision +  Recall)   25   Performance (Time & Size Compliance)"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "Heading Detection Accuracy (Precision +  Recall)   25   Performance (Time & Size Compliance)   10"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022 Round 1:   Kick things off by building the brains \u2014 extract structured outlines from  raw PDFs with blazing speed and pinpoint accuracy. Then, power it up  with on-device intelligence that understands sections and links related"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 2,
+      "refined_text": "In a world flooded with documents, what wins is not more content \u2014 it\u2019s  context. You\u2019re not just building tools \u2014 you\u2019re building the future of how we  read, learn, and connect. No matter your background \u2014 ML hacker, UI builder,  or insight whisperer \u2014 this is your stage.   Are you in?"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 3,
+      "refined_text": "You're handed a PDF \u2014 but instead of simply reading it, you're tasked with  making sense of it like a machine would. Your job is to extract a structured  outline of the document \u2014 essentially the Title, and headings like H1, H2, and  H3 \u2014 in a clean, hierarchical format.   This outline will be the foundation for the rest of your hackathon journey."
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 3,
+      "refined_text": "PDFs are everywhere \u2014 but machines don\u2019t naturally understand their  structure. By building an outline extractor, you\u2019re enabling smarter document  experiences, like semantic search, recommendation systems, and insight  generation.    What You Need to Build"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 3,
+      "refined_text": "You must build a solution that:   \u2022 Accepts a PDF file (up to 50 pages)   \u2022 Extracts:   o Title   o Headings: H1, H2, H3 (with level and page number)"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 3,
+      "refined_text": "1. A sample input PDF (e.g., sample.pdf)   2. A sample ground truth output (sample.json) for format clarity"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "refined_text": "\u2022   \u2022 Please ensure your Dockerfile is compatible with AMD64  architecture. Since we will build and run the image on an AMD64  machine, your base image and any dependencies should support  linux/amd64. Optionally, you can include the following in your"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "refined_text": "We will build the docker image using the following command:  ```docker build --platform linux/amd64 -t  mysolutionname:somerandomidentifier```   After building the image, we will run the solution using the run command  specified in the submitted instructions."
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "refined_text": "Constraint   Requirement   Execution  time   \u2264 10 seconds for a 50-page"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "refined_text": "Requirement   Execution  time   \u2264 10 seconds for a 50-page  PDF"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "refined_text": "Execution  time   \u2264 10 seconds for a 50-page  PDF"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "refined_text": "time   \u2264 10 seconds for a 50-page  PDF"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 4,
+      "refined_text": ""
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "No internet access  allowed   Runtime   Must run on CPU (amd64),  your solution should run on"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "allowed   Runtime   Must run on CPU (amd64),  your solution should run on  the system with 8 CPUs and"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "Must run on CPU (amd64),  your solution should run on  the system with 8 CPUs and  16 GB RAM configurations"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "Criteria   Max  Points   Heading Detection Accuracy (Precision +  Recall)"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "Max  Points   Heading Detection Accuracy (Precision +  Recall)   25"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "45      Submission Checklist   1. Git Project with a working Dockerfile in the root director and    2. A working Dockerfile"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "1. Git Project with a working Dockerfile in the root director and    2. A working Dockerfile   3. All dependencies installed within the container   4. A README.md that explains:   o Your approach"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 5,
+      "refined_text": "\u2022 Don\u2019t rely solely on font sizes for heading level determination \u2014  headings in some PDFs break that assumption.   \u2022 Test your solution across both simple and complex PDFs.   \u2022 Make your code modular \u2014 you\u2019ll reuse this structure in Round  1B."
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 6,
+      "refined_text": "\u2022 Do not hardcode headings or file-specific logic   \u2022 Do not make API or web calls   \u2022 Do not exceed the runtime/model size constraints   [[Public Dataset Folder]]    (For Sample Input and Output Files, please refer to the appendix)"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 7,
+      "refined_text": "2. Document Collection: 3-10 related PDFs Persona Definition: Role  description with specific expertise and focus areas   3. Job-to-be-Done: Concrete task the persona needs to accomplish   Document collection, persona and job-to-be-done can be very diverse. So, the  solution that teams need to build needs to be generic to generalize to this"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 8,
+      "refined_text": "\u2022 Output JSON format: Refer challenge1b_output.json   The output should contain:   1. Metadata:   a. Input documents   b. Persona"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "\u2022 approach_explanation.md (300-500 words explaining  methodology)   \u2022 Dockerfile and execution instructions   Sample input/output for testing"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "Criteria   Max  Points   Description   Section Relevance"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "Max  Points   Description   Section Relevance    60"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "Points   Description   Section Relevance    60   How well selected sections match"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "Description   Section Relevance    60   How well selected sections match  persona + job requirements with"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "Section Relevance    60   How well selected sections match  persona + job requirements with  proper stack ranking"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "60   How well selected sections match  persona + job requirements with  proper stack ranking   Sub-Section Relevance"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "persona + job requirements with  proper stack ranking   Sub-Section Relevance   40   Quality of granular subsection"
+    },
+    {
+      "document": "sample.pdf",
+      "page_number": 9,
+      "refined_text": "extraction and ranking"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "Bishanpura Jind Haryana 9034231408 ishusangwan21@gmail.com 26June, 2003 OBJECTIVE"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "9034231408 ishusangwan21@gmail.com 26June, 2003 OBJECTIVE Enthusiastic and solutions-driven individual looking"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "Enthusiastic and solutions-driven individual looking for a customer service position where I can use my problem- solving abilities and experience in handling customer"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "Problem Solving Active Listener Adaptability Time management Technical pro"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "Active Listener Adaptability Time management Technical pro SKILLS"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "Adaptability Time management Technical pro SKILLS Fresher"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "Time management Technical pro SKILLS Fresher\u00a0 EXPERIENCE"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "Technical pro SKILLS Fresher\u00a0 EXPERIENCE 2020"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "SKILLS Fresher\u00a0 EXPERIENCE 2020 Indus Public school , Jind"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "Fresher\u00a0 EXPERIENCE 2020 Indus Public school , Jind 10 th"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "EXPERIENCE 2020 Indus Public school , Jind 10 th 67%"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": "2020 Indus Public school , Jind 10 th 67% 2022"
+    },
+    {
+      "document": "sample2.pdf",
+      "page_number": 1,
+      "refined_text": ""
+    }
+  ]
+}
