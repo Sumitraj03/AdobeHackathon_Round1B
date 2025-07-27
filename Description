@@ -1,0 +1,21 @@
+Persona-Driven Document Intelligence (Round 1B)
+This project enhances a basic PDF outline extractor (Round 1A) into a persona-aware document analysis system. It processes multiple PDFs, understands a defined persona and objective (job-to-be-done), and generates ranked summaries of the most relevant sections and subsections. The system is optimized for offline execution with lightweight CPU performance and is fully Dockerized for cross-platform deployment.
+
+Key Features
+Extracts structured headings (H1–H3) and contextual snippets from PDFs.
+
+Uses persona and job-to-be-done to rank document sections dynamically.
+
+Generates a unified JSON report combining multiple PDFs.
+
+Runs entirely offline; lightweight and fast (<1GB dependencies).
+
+Fully containerized with Docker for consistent hackathon deployment.
+
+Use Cases
+Tailored literature reviews for researchers.
+
+Persona-based document summarization for recruitment or legal analysis.
+
+Pre-processing for semantic search or AI-powered insights.
+
